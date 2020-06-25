@@ -1,5 +1,5 @@
 # insta_bot
-It is an instagram bot which gives a list of people that you are following who are not following you back
+It is an instagram bot made with python which gives a list of people that you are following who are not following you back
 
 This bot is built using python3 and some libraries like selenium which is used for automation and chrome webdriver
 The functionalities of the bot are:
